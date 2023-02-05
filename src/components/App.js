@@ -1,7 +1,7 @@
 import React ,{useRef,useState,useEffect} from 'react'
 import '../styles/App.css';
 import InputField from './InputField.js';
-const App = () => {
+const App = () => Field()=> {
  
 //code here 
 
